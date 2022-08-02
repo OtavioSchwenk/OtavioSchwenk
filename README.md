@@ -1,10 +1,10 @@
 # Sobre Mim
 ## Novo por aqui
 
-- 👋 Hi, I’m **@OtavioSchwenk**
-- 👀 I’m interested in new games.
-- 🌱 I’m currently learning about computers.
-- 📫 How to reach me : [E-Mail](otavio.schwenk@escola.pr.gov.br)
+- 👋 Olá, eu sou o **@OtavioSchwenk**
+- 👀 Sou novo aqui e estou querendo descobrir mais sobre jogos.
+- 🌱 Adoro jogos de batalha e de mundo aberto.
+- 📫 Para entrar em contato comigo: [E-Mail](otavio.schwenk@escola.pr.gov.br)
 
 <!---
 OtavioSchwenk/OtavioSchwenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
